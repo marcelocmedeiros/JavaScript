@@ -5,7 +5,7 @@ let resultado = nums.map(function(e) {
     return e * 2
 })
 
-console.log(resultado)
+console.log(resultado) // o map gera um novo array
 
 const soma10 = e => e + 10
 const triplo = e => e * 3
